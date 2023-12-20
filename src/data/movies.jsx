@@ -67,7 +67,7 @@ const movies = [
   },
   {
     title: "Game of Thrones",
-    year: "2011–",
+    year: "2011–2019",
     runtime: "56 min",
     director: "N/A",
     image:
@@ -78,7 +78,7 @@ const movies = [
   },
   {
     title: "Vikings",
-    year: "2013–",
+    year: "2013–2020",
     runtime: "44 min",
     director: "N/A",
     image:
@@ -89,7 +89,7 @@ const movies = [
   },
   {
     title: "Gotham",
-    year: "2014–",
+    year: "2014–2019",
     runtime: "42 min",
     director: "N/A",
     image:
@@ -100,7 +100,7 @@ const movies = [
   },
   {
     title: "Power",
-    year: "2014–",
+    year: "2014–2020",
     runtime: "50 min",
     director: "N/A",
     image:
@@ -111,7 +111,7 @@ const movies = [
   },
   {
     title: "Narcos",
-    year: "2015–",
+    year: "2015–2017",
     runtime: "49 min",
     director: "N/A",
     image:
@@ -166,7 +166,7 @@ const movies = [
   },
   {
     title: "Luke Cage",
-    year: "2016–",
+    year: "2016–2018",
     runtime: "55 min",
     director: "N/A",
     image:
