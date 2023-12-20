@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Kanit", sans-serif;
+}
+
+.movies-images {
+  width: 6.375rem;
+  height: 6.25rem;
+  flex-shrink: 0;
+  border-radius: 0.625rem;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 4.31rem;
+}
+
+.App span {
+  font-size: 2.5rem;
+  line-height: 1.125rem;
+  margin-bottom: 4.36rem;
+}
+
+.box-list-movies {
+  width: 32rem;
+  height: 15.625rem;
+  border-radius: 0.625rem;
+  background: #fff;
+  box-shadow: 0px 4px 40px 0px rgba(145, 124, 124, 0.25);
+  color: black;
+  display: flex;
+  padding-left: 0.87rem;
+  padding-top: 1.12rem;
+  gap: 1.19rem;
+}
+
+.infomation-movies {
+  display: flex;
+  flex-direction: column;
+}
+
+.infomation-movies span {
+  margin-bottom: 1.06rem;
+  font-size: 1.25rem;
+  line-height: 1.125rem;
+}
+
+.movie-list-section {
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+}
+
+.genres-moives-list {
+  display: flex;
+  align-items: center;
+  gap: 0.56rem;
+  margin-bottom: 1.06rem;
+  font-size: 1.25rem;
+  line-height: 1.125rem;
+}
+
+.genres-moives-catagory {
+  padding-left: 0.81rem;
+  padding-right: 0.63rem;
+  height: 1.6875rem;
+  border-radius: 0.625rem;
+  background: #eaac99;
+  font-size: 1rem;
+  line-height: 1.125rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
